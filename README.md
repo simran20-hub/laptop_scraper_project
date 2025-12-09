@@ -34,19 +34,21 @@ This project automatically collects product data (like name, price, description,
 
 ## 📁 Project Structure
 
+```text
 laptop_scraper_project/
 │
 ├── main.py
-├── config.py # (ignored in git)
+├── config.py              # (ignored in git)
 ├── requirements.txt
 ├── streamlit_app.py
 │
 ├── scraper/
-│ ├── scrape.py
-│ ├── clean.py
-│ └── save_mysql.py
+│   ├── scrape.py
+│   ├── clean.py
+│   └── save_mysql.py
 │
 └── .gitignore
+```
 
 ---
 

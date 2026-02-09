@@ -4,12 +4,12 @@ A beginner-friendly Python project that scrapes laptop and tablet data from a te
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 This project automatically collects product data (like name, price, description, and links) from the **WebScraper.io test e-commerce site**. The data is cleaned, structured using pandas, saved to a MySQL database, and visualized through a simple dashboard. This project is great for hands-on experience of Web scraping.
 
 ---
 
-## ✨ Features
+## Features
 
 - Scrapes **Laptops** and **Tablets** with pagination    
 - Stores cleaned data into **MySQL tables** (laptops & tablets)  
@@ -20,7 +20,7 @@ This project automatically collects product data (like name, price, description,
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python 3.10**
 - **BeautifulSoup4** – Web scraping  
@@ -52,7 +52,7 @@ laptop_scraper_project/
 
 ---
 
-### ▶️ How to Run the Project
+### How to Run the Project
 
 ---
 ### Create a Virtual env using venv/conda. Activate the env and then proceed as follows:
